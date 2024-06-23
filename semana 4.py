@@ -1,4 +1,4 @@
-lass Producto:
+class Producto:
     def __init__(self, id_producto, nombre, precio, stock):
         self.id_producto = id_producto
         self.nombre = nombre
@@ -80,4 +80,4 @@ if __name__ == "__main__":
     pedido1.agregar_producto(producto2, 1)
 
     print(tienda)
-    print(pedido1)
+    print(pedido1)  
