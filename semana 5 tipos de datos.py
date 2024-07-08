@@ -45,4 +45,4 @@ if __name__ == "__main__":
     empleado1 = ingresar_trabajador()
 
     # Mostrar los datos del trabajador ingresado
-    mostrar_trabajador(trabajador1)  
+    mostrar_trabajador(trabajador1)
