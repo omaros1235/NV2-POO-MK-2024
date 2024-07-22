@@ -48,4 +48,4 @@ if __name__ == "__main__":
     print(content)
 
     # El objeto file_manager será destruido al final del programa o cuando se llame explícitamente a del file_manager
-    del file_manager
+    del file_manager6
